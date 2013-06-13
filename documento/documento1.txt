@@ -1,2 +1,3 @@
 commit 2
 creating a new branch hotfix
+in the second branch
